@@ -1,5 +1,3 @@
-[Sprint Review and Retrospective.docx](https://github.com/SecallyBarbosa/SoftwareDevelopmentLifecycle/files/7740273/Sprint.Review.and.Retrospective.docx)
-
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
 First, user needs are discussed between the software developer team and the client. This includes getting all the information on the requirements for the product and documenting what is going to create the perfect path to the dealine. Requirements, or user needs, should be implented based on their importance and should be gathered in a diagram to see how the product is going to work its best. User stories help with this by providing insight into the user needs from the end user point of view. User stories are where discussions can happen between the client and the developer to make sure that the qualities of the software are meeting the expectations set by the client.
